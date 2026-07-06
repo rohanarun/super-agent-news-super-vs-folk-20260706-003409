@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Memeburn",
+      "title": "Cisco Hands AI Agents to 90,000 Workers After Layoffs",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ycHl6QWdoU1RYdWhQVks5RTdzbXk5Y24tYVZhSFBDMjZEcjd4M0lKaU0wb040cF9iLU1NTU9jT2kwMDZRUHBVcXRHYlhpMTBoTXVyYk4wODFZNWc?oc=5"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbHYxUE9Zbmd5WVNGTUJabVZNMnJxVzhYeTZvcVRxNWNNcm5yQWtjSzQ0S0YzZjRtLW5qNUl5Mmc4LWdBeW1EMkxvQzRqekFlYVY0OFJpVHhwaHZCZTlhN0VBa0lIQ3BibXJSdHlkeFc4R2h3?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super vs Folk|competitor_comparison|people comparing Super with Folk|2026-07-06T00:33:18.572638+00:00') -> hero=comparison-lab, typography=Cabinet Grotesk, components=[decision-matrix, workflow-playbook-timeline, source-card-dossier], gsap=[pinned-chapter-scroll, hover-physics]. AIDA Check: Hero=Attention, Proof grids=Interest, Field guide & motion=Desire, CTA band=Action. Font Selection: Cabinet Grotesk (brand-safe). Hero Math Verification: clamp headline spans 2\u20133 lines at 1120px max-width. Bento Density Verification: compare-grid uses grid-auto-flow:dense. GSAP Motion Selection: guarded ScrollTrigger + hover physics. Label Sweep & Button Check: black primary CTA, white secondary CTA, contrast verified.",
+  "generated_at": "2026-07-06T00:34:15.377150+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents compared for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair, source\u2011backed comparison of Super and Folk for people choosing a personal AI agent. Folk shines for lightweight organization and niche automation. Super is built for repeated computer\u2011use workflows, with agents that actually operate browsers and desktops and reuse a computer-use cache so work gets faster and cheaper over time. Includes a deep buyer\u2019s guide, evaluation plan, risks, FAQs, and cited market context."
+}
